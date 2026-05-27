@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcpdate",
+        "uuid": 5873742,
+        "checksum": "outb5n"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
